@@ -9,6 +9,10 @@ In this widget you can:
 - Change songs and pause
 - Control the songs with any device 
 <br><br>
+## 📥 Download
+
+- [⬇️ Download for Mac]([https://github.com/jouwgebruikersnaam/jouw-repo/releases/download/v1.0/widget.dmg](https://github.com/klaudij/Spotify-widget/releases/tag/v1.0)) 
+
 
 https://github.com/user-attachments/assets/57e38811-1978-4f3d-849e-7eafd8901d74
 
